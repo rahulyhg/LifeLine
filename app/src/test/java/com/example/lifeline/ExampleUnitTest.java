@@ -1,4 +1,4 @@
-package com.lifeline.lifeline;
+package com.example.lifeline;
 
 import org.junit.Test;
 

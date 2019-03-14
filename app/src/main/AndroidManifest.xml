@@ -42,9 +42,9 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".hospitals_locator"
+            android:name=".MainActivity"
             android:label="@string/title_activity_hospitals_locator"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".hospitals_locator">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
