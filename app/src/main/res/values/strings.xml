@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Life Line</string>
+    <string name="welcomr_string">DoctorsApp helps you to \n book Appointment with Doctor</string>
+    <!--Fetch Address-->
+    <string name="no_geocoder_available">No geocoder available</string>
+
+    <string name="fetch_address">Fetch address</string>
+
+    <string name="address_found">Address found</string>
+    <string name="gps_network_not_enabled">GPS or network services are disabled. Do you wish to enable them? </string>
+    <string name="open_location_settings">Enable GPS</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="loading">Loading…</string>
+    <string name="title_activity_hospitals_locator">Map</string>
+    <string name="search_title">Search for Hospitals</string>
+    <string name="message_no_result">Sorry, we could not find any results matching your query. \nPlease try another query.</string>
+
+
+    <string-array name="array_option_type">
+        <item>Hospital</item>
+        <item>Doctor/Clinic</item>
+        <item>Dentist</item>
+    </string-array>
+
+    <string-array name="array_option_rank">
+        <item>Prominence</item>
+        <item>Distance</item>
+    </string-array>
+
+</resources>
