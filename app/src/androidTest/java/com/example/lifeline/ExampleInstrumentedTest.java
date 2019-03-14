@@ -1,4 +1,4 @@
-package com.example.lifeline;
+package com.lifeline.lifeline;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
